@@ -1,0 +1,81 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Machine>MIKEWXP</Machine>
+    <WindowsUser>mike</WindowsUser>
+    <SolutionConfiguration>Debug|AnyCPU</SolutionConfiguration>
+    <PackageArchitecture>neutral</PackageArchitecture>
+    <PackageIdentityName>d636788a-2ae1-4773-9705-8abb0bf6aff0</PackageIdentityName>
+  </PropertyGroup>
+  <ItemGroup>
+    <AppXManifest Include="D:\C#_Projects\AppWin8_link\bin\Debug\AppxManifest.xml">
+      <PackagePath>AppxManifest.xml</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppXManifest>
+  </ItemGroup>
+  <ItemGroup>
+    <AppxPackagedFile Include="D:\C#_Projects\AppWin8_link\bin\Debug\AppWin8_link.exe">
+      <PackagePath>AppWin8_link.exe</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\C#_Projects\AppWin8_link\Assets\linkImages\1.png">
+      <PackagePath>Assets\linkImages\1.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\C#_Projects\AppWin8_link\Assets\linkImages\10.png">
+      <PackagePath>Assets\linkImages\10.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\C#_Projects\AppWin8_link\Assets\linkImages\2.png">
+      <PackagePath>Assets\linkImages\2.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\C#_Projects\AppWin8_link\Assets\linkImages\3.png">
+      <PackagePath>Assets\linkImages\3.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\C#_Projects\AppWin8_link\Assets\linkImages\4.png">
+      <PackagePath>Assets\linkImages\4.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\C#_Projects\AppWin8_link\Assets\linkImages\5.png">
+      <PackagePath>Assets\linkImages\5.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\C#_Projects\AppWin8_link\Assets\linkImages\6.png">
+      <PackagePath>Assets\linkImages\6.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\C#_Projects\AppWin8_link\Assets\linkImages\7.png">
+      <PackagePath>Assets\linkImages\7.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\C#_Projects\AppWin8_link\Assets\linkImages\8.png">
+      <PackagePath>Assets\linkImages\8.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\C#_Projects\AppWin8_link\Assets\linkImages\9.png">
+      <PackagePath>Assets\linkImages\9.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\C#_Projects\AppWin8_link\Assets\linkImages\bg_bar.png">
+      <PackagePath>Assets\linkImages\bg_bar.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\C#_Projects\AppWin8_link\Assets\Logo.scale-100.png">
+      <PackagePath>Assets\Logo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\C#_Projects\AppWin8_link\Assets\SmallLogo.scale-100.png">
+      <PackagePath>Assets\SmallLogo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\C#_Projects\AppWin8_link\Assets\SplashScreen.scale-100.png">
+      <PackagePath>Assets\SplashScreen.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\C#_Projects\AppWin8_link\Assets\StoreLogo.scale-100.png">
+      <PackagePath>Assets\StoreLogo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\C#_Projects\AppWin8_link\bin\Debug\App.xbf">
+      <PackagePath>App.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\C#_Projects\AppWin8_link\bin\Debug\MainPage.xbf">
+      <PackagePath>MainPage.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\C#_Projects\AppWin8_link\bin\Debug\resources.pri">
+      <PackagePath>resources.pri</PackagePath>
+    </AppxPackagedFile>
+  </ItemGroup>
+  <ItemGroup>
+  </ItemGroup>
+</Project>

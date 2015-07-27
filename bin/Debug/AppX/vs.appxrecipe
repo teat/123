@@ -1,0 +1,107 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Machine>MIKEWXP</Machine>
+    <WindowsUser>mike</WindowsUser>
+    <SolutionConfiguration>Debug|AnyCPU</SolutionConfiguration>
+    <PackageArchitecture>neutral</PackageArchitecture>
+    <PackageIdentityName>d636788a-2ae1-4773-9705-8abb0bf6aff0</PackageIdentityName>
+    <RegisteredManifestChecksum>48BED5B7FEA7C24A56B01087AE10ECF28BE38072AA45BCEE498760382D07EAD5</RegisteredManifestChecksum>
+    <RegisteredPackageMoniker>d636788a-2ae1-4773-9705-8abb0bf6aff0_1.0.0.0_neutral__1pdywbn5ngrp6</RegisteredPackageMoniker>
+    <RegisteredUserModeAppID>d636788a-2ae1-4773-9705-8abb0bf6aff0_1pdywbn5ngrp6!App</RegisteredUserModeAppID>
+    <RegisteredPackageID>d636788a-2ae1-4773-9705-8abb0bf6aff0</RegisteredPackageID>
+    <RegisteredPackagePublisher>CN=mike</RegisteredPackagePublisher>
+    <RegisteredVersion>1.0.0.0</RegisteredVersion>
+  </PropertyGroup>
+  <ItemGroup>
+    <AppXManifest Include="D:\C#_Projects\AppWin8_link\bin\Debug\AppxManifest.xml">
+      <PackagePath>AppxManifest.xml</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2015-05-17T00:58:44.451</Modified>
+    </AppXManifest>
+  </ItemGroup>
+  <ItemGroup>
+    <AppxPackagedFile Include="D:\C#_Projects\AppWin8_link\bin\Debug\AppWin8_link.exe">
+      <PackagePath>AppWin8_link.exe</PackagePath>
+      <Modified>2015-05-17T00:58:44.277</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\C#_Projects\AppWin8_link\Assets\linkImages\1.png">
+      <PackagePath>Assets\linkImages\1.png</PackagePath>
+      <Modified>2015-05-17T00:53:48.523</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\C#_Projects\AppWin8_link\Assets\linkImages\10.png">
+      <PackagePath>Assets\linkImages\10.png</PackagePath>
+      <Modified>2015-05-17T00:53:48.525</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\C#_Projects\AppWin8_link\Assets\linkImages\2.png">
+      <PackagePath>Assets\linkImages\2.png</PackagePath>
+      <Modified>2015-05-17T00:53:48.542</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\C#_Projects\AppWin8_link\Assets\linkImages\3.png">
+      <PackagePath>Assets\linkImages\3.png</PackagePath>
+      <Modified>2015-05-17T00:53:48.545</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\C#_Projects\AppWin8_link\Assets\linkImages\4.png">
+      <PackagePath>Assets\linkImages\4.png</PackagePath>
+      <Modified>2015-05-17T00:53:48.547</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\C#_Projects\AppWin8_link\Assets\linkImages\5.png">
+      <PackagePath>Assets\linkImages\5.png</PackagePath>
+      <Modified>2015-05-17T00:53:48.549</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\C#_Projects\AppWin8_link\Assets\linkImages\6.png">
+      <PackagePath>Assets\linkImages\6.png</PackagePath>
+      <Modified>2015-05-17T00:53:48.551</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\C#_Projects\AppWin8_link\Assets\linkImages\7.png">
+      <PackagePath>Assets\linkImages\7.png</PackagePath>
+      <Modified>2015-05-17T00:53:48.553</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\C#_Projects\AppWin8_link\Assets\linkImages\8.png">
+      <PackagePath>Assets\linkImages\8.png</PackagePath>
+      <Modified>2015-05-17T00:53:48.555</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\C#_Projects\AppWin8_link\Assets\linkImages\9.png">
+      <PackagePath>Assets\linkImages\9.png</PackagePath>
+      <Modified>2015-05-17T00:53:48.556</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\C#_Projects\AppWin8_link\Assets\linkImages\bg_bar.png">
+      <PackagePath>Assets\linkImages\bg_bar.png</PackagePath>
+      <Modified>2015-05-17T00:53:48.559</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\C#_Projects\AppWin8_link\Assets\Logo.scale-100.png">
+      <PackagePath>Assets\Logo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2013-07-22T22:01:02.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\C#_Projects\AppWin8_link\Assets\SmallLogo.scale-100.png">
+      <PackagePath>Assets\SmallLogo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2013-07-22T22:01:02.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\C#_Projects\AppWin8_link\Assets\SplashScreen.scale-100.png">
+      <PackagePath>Assets\SplashScreen.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2013-07-22T22:01:02.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\C#_Projects\AppWin8_link\Assets\StoreLogo.scale-100.png">
+      <PackagePath>Assets\StoreLogo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2013-07-22T22:01:02.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\C#_Projects\AppWin8_link\bin\Debug\App.xbf">
+      <PackagePath>App.xbf</PackagePath>
+      <Modified>2015-05-17T00:58:44.107</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\C#_Projects\AppWin8_link\bin\Debug\MainPage.xbf">
+      <PackagePath>MainPage.xbf</PackagePath>
+      <Modified>2015-05-17T00:58:44.108</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\C#_Projects\AppWin8_link\bin\Debug\resources.pri">
+      <PackagePath>resources.pri</PackagePath>
+      <Modified>2015-05-17T00:58:44.361</Modified>
+    </AppxPackagedFile>
+  </ItemGroup>
+  <ItemGroup>
+  </ItemGroup>
+</Project>
